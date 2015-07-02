@@ -1,0 +1,6 @@
+lesson_2_reflections.txt
+
+
+What happens when you initialize a repository? Why do you need to do it?
+
+When you git init the command creates a new .git file for your repository. Without a .git file you will not be able to make commits and will not be able to save versions of the files you've made changes to.
