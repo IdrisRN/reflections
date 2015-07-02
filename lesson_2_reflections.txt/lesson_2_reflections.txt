@@ -1,0 +1,10 @@
+lesson_2_reflections.txt
+
+
+What happens when you initialize a repository? Why do you need to do it?
+
+When you git init the command creates a new .git file for your repository. Without a .git file you will not be able to make commits and will not be able to save versions of the files you've made changes to.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is where you put things from the working directory before you make a commit to the repository with the git add command line. 
