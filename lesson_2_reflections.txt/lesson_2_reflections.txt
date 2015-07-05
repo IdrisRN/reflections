@@ -1,5 +1,9 @@
 lesson_2_reflections.txt
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When two branches are merged together you get a working master branch, it is merging a feature branch into the master branch. This results in deletion of feature branch name, but NOT the deletion of the commitID of the features. The diagram is represented that way to indicate the reachability of each commitID to the working master branch. Thus allowing the programmer to see where a detach HEAD might be.
+
 How do the diagrams help you visualize the branch structure?
 
 The branch structure help identify all the files being worked on, where the master file is, which files are connected to the master file, and if there are ANY DETACHED HEAD/Uncommited file. 
