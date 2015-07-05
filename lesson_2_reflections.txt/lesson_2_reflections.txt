@@ -1,5 +1,15 @@
 lesson_2_reflections.txt
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you need to make a change or create an experiemntal feature to your working master directory creating a branch or branches would be the most practical way of assuring your master file remains untouched and bug free. The branches would allow you to test out the experimental features in a seperate but identical working directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+When you make a change in the working directory, save the change, exit the text editor
+Use command line git status to view the changes to the working directory file...keep in mind this change is not yet staged. 
+Use the command line--git add <filename>, this add file from working directory to staging area...keep in mind this file isnt commited to the repository yet
+Use command line git commit..to commit change made in the working directory that was kept in the staging area
 
 What happens when you initialize a repository? Why do you need to do it?
 
