@@ -1,5 +1,9 @@
 lesson_2_reflections.txt
 
+How do the diagrams help you visualize the branch structure?
+
+The branch structure help identify all the files being worked on, where the master file is, which files are connected to the master file, and if there are ANY DETACHED HEAD/Uncommited file. 
+
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When you need to make a change or create an experiemntal feature to your working master directory creating a branch or branches would be the most practical way of assuring your master file remains untouched and bug free. The branches would allow you to test out the experimental features in a seperate but identical working directory.
