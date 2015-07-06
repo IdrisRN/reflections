@@ -1,0 +1,3 @@
+WHen would you want to create a remote repository rather than keeping all your work local?
+
+I believe when working on a clone repository, when you do not have your local machine at hand and you want to create a feature you just thought of that might be included in your final project. 
